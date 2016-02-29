@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="green">#5FC793</color>
+    <color name="green2">#885FC793</color>
+    <color name="green3">#adea93</color>
+    <color name="bottom_bar_text_selected">#FFFFFF</color>
+    <color name="bottom_bar_text">#999999</color>
+    <color name="transparent">#00000000</color>
+    <color name="index_title_txt">#ffffff</color>
+
+    <item name="main_background" type="drawable">#ededf3</item>
+
+    <color name="black" type="color">#000000</color>   
+    <color name="white" type="color">#FFFFFFFF</color>
+    <color name="yellow" type="color">#FFFF00</color>
+ 	<color name="wealth_gray" type="color">#666666</color>
+ 	<color name="wealth_item_color" type="color">#EA550C</color>
+    <color name="red">#FFFF0000</color>
+    <color name="blue">#34BAFF</color>
+
+    <!-- ydx -->
+    <color name="translucent_background">#88000000</color>
+    <color name="midred">#770000</color>
+    <color name="father_color">#8A5200</color>
+    <color name="outline_background">#BB000000</color>
+    <color name="addr_group_bg">#CCCCCC</color>
+    <color name="addr_line_bg">#DDDDDD</color>
+    <color name="addr_child_selector">#DDDDDD</color>
+    <color name="video_bg">#9EC117</color>
+    <color name="video_title">#679A01</color>
+    <color name="f_txt_color">#FFFF00</color>
+    <color name="m_txt_color">#D42F01</color>
+    <color name="s_txt_color">#DE7F01</color>
+    <color name="tip_color">#FF9900</color>
+    <color name="lif_text_green">#64c693</color>
+    <color name="lif_text_black">#444444</color>
+    <color name="lif_text_line">#AAAAAA</color>
+    <color name="lif_text_white">#ffffff</color>
+    <color name="txt_gray">#888888</color>
+
+    <!-- new -->
+    <color name="hc_tab_red">#fc5f27</color>
+    <color name="main_red">#fd5224</color>
+    <color name="main_bg_btnarea">#fffcf5</color>
+    <color name="main_bg_gray">#efefef</color>
+    <color name="main_bg_gray_overflo">#33ffffff</color>
+    <color name="main_orange">#FF6D1D</color>
+    <color name="main_text_gray">#909397</color>
+    <color name="main_line_gray">#e0e0e0</color>
+    <color name="main_text_black">#4f5257</color>
+    <color name="main_text_blue">#0662b0</color>
+    <color name="main_text_little_green">#bcd982</color>
+    <color name="main_text_orange">#dd5522</color>
+    <color name="main_text_red">#c21b01</color>
+    <color name="policy_tip_text_gray">#636363</color>
+    <color name="policy_btn_text_blue">#0662b0</color>
+    <color name="activity_list_title">#4f5257</color>
+    <color name="activity_list_sub_title">#909397</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="bottom_bar_gray">#f8f8f9</color>
+    <color name="photo_black_bg">#141417</color>
+    <color name="line_color" type="color">#C4CBCF</color>
+    <color name="yzt_tab_bg">#E3E2E8</color>
+    <color name="hc_history_step_text">#31acf3</color>
+    <!-- RQDecode -->
+    <color name="possible_result_points">#c0ffbd21</color>
+    <!-- Android standard ICS color -->
+    <!-- Android standard ICS color -->
+    <color name="result_view">#b0000000</color>
+    <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#b0000000</color>
+    <color name="capture_text_cover_bg">#fd5224</color>
+
+    <!-- index -->
+    <color name="index_weather_start">#648A1B</color>
+    <color name="index_weather_end">#455E1D</color>
+    <color name="index_no_detail_msg">#D5F2A1</color>
+    <color name="list_item_default_bg">#EEEDF3</color>
+    <color name="indextlist_item_action_bg">#63881c</color>
+    <color name="indextlist_item_action">#669933</color>
+    <color name="main_text_yellow2">#FF9342</color>
+    <color name="main_text_yellow1">#FFE407</color>
+    
+    <!-- welcome -->
+	<color name="welcome_bg">#E15714</color>
+	
+	
+	<color name="activity_tab_on">#4e5156</color>
+	<color name="activity_tab_off">#8c8d91</color>
+	
+	
+	<!-- hexinchun -->
+	<color name="jiaoyan_enable_true">#676767</color>
+	<color name="jiaoyan_enable_false">#b3b3b3</color>
+
+	<color name="praise_flag_red">#ff0000</color>
+	<color name="praise_flag_nomal">#8e8e8e</color>
+	<color name="contex_text_gray">#999999</color>
+	<color name="joinstatue_yes">#6faf34</color>
+	<!-- bbw -->
+	<color name="bbw_bg">#88888888</color>
+	
+	<!-- wealth -->
+	<color name="wealth_class_title_color">#222222</color>
+	<color name="wealth_class_color">#666666</color>
+	<color name="wealth_class_color2">#666</color>
+	<color name="wealth_custom_color">#999999</color>
+	<color name="wealth_item_title_color">#222</color>
+	<color name="wealth_item_mid_color">#999</color>
+	
+	<!-- 健康行活动 -->
+	<color name="hw_lucky_draw_text_today">#7d95a7</color>
+	<color name="hw_lucky_draw_text_other_day">#666666</color>
+	<color name="hw_blue">#0066cd</color>
+	<color name="activity_lucky_draw_tab_on">#eb600f</color>
+	<color name="activity_lucky_draw_tab_off">#8c8d91</color>
+	<color name="hw_2index_btn_color">#AAAAAA</color>
+	<color name="hw_2index_timer_bg_color">#62000000</color>
+	<color name="hw_2index_solib_bg_color">#00000000</color>
+
+    <color name="index_slide_text">#cbc1bd</color>
+    <color name="index_slide_text_bg">#11ffffff</color>
+
+    <color name="s3_item_text">#858585</color>
+    <color name="s3_item_text_check">#fbaa00</color>
+
+
+    <!-- 社交云 -->
+    <color name="chat_bottom_background">#f9f9f9</color>
+    <!-- 聊天界面底部隐藏功能区背景颜色 -->
+    <color name="chat_bottom_function_bg">#f2f0f0</color>
+    <color name="expression_divider">#b1afb0</color>
+
+    <!-- 分割线颜色 -->
+    <color name="dialog_btn_text_color">#646464</color>
+    <color name="dialog_title_text_color">#ff6600</color>
+    <color name="rectangle_bg_normal">@android:color/white</color>
+    <color name="rectangle_bg_pressed">#D9D9D9</color>
+    <color name="common_content_bg">#EFEFEF</color>
+    <!-- 底部导航条文字颜色 -->
+    <color name="title_font_color">#E1FDFE</color>
+    <color name="light_red">#ff6600</color>
+    <color name="gray_simple">#e5e5e5</color>
+    <color name="gray_mood">#dedddd</color>
+    <color name="gray_tab">#f7f7f7</color>
+    <color name="gray_circle_blank">#efefef</color>
+
+    <!-- 消息列表界面文本颜色 -->
+    <color name="message_list_text">#92918c</color>
+    <!-- 聊天长按弹出框的单个菜单的背景 -->
+    <color name="chat_long_click_item_bg">#333333</color>
+    <!-- 公共字体 黑色 -->
+    <color name="black_text">#585858</color>
+    <color name="darker_gray_text">#9e9e9d</color>
+    <!-- 未读消息快速定位文字颜色 -->
+    <color name="unread_msg_text">#00b2f4</color>
+    <!-- 80%黑 -->
+    <!-- 所有底部弹出框 -->
+    <color name="cut_off_rule">#8e9194</color>
+    <color name="pup_text_color">#838383</color>
+    <color name="pup_cancel_text">#1571fb</color>
+    <!-- 朋友圈虚线 -->
+    <!-- 朋友圈背景颜色 -->
+    <!-- 朋友圈时间字体颜色 -->
+    <!-- 朋友圈时间字体颜色 -->
+    <!-- 朋友圈时间字体颜色 -->
+    <!-- 朋友圈内容字体颜色 -->
+    <!-- 朋友圈提醒谁字体颜色 -->
+    <!-- 朋友圈位置字体颜色 -->
+    <!-- 朋友圈昵称字体颜色 -->
+    <!-- 朋友圈评论字体颜色 -->
+    <!-- 朋友圈评论面板颜色 -->
+    <!-- 朋友圈图片选择背景颜色 -->
+    <color name="friend_cirlce_photo_select_bg">#ff6604</color>
+    <!-- 朋友圈评论面板颜色 -->
+    <!-- 半透明黑色图片 -->
+    <drawable name="transparent_black_half">#5f000000</drawable>
+    <!-- 公共字体纯白色 -->
+    <color name="common_white">@android:color/white</color>
+    <color name="lv_divider">#5ea7d5</color>
+    <!-- 聊天界面item相关颜色 -->
+    <color name="group_chat_item_nickname">#8E8A85</color>
+    <color name="video_item_bg">#0C0C0F</color>
+    <!-- 聊天界面温馨提示相关颜色 -->
+    <color name="message_public_warning">#FFFB85</color>
+    <color name="line_divider">#d9d9d9</color>
+
+    <!-- PullToRefreshView -->
+    <color name="title_color">#333333</color>
+
+    <!-- slate -->
+    <drawable name="bottom_btn_pressed">#A7A09B</drawable>
+    <drawable name="bottom_btn_default">#00000000</drawable>
+    <color name="btn_bg">#FF222222</color>
+    <color name="btn_pressed_bg">#FFFFCC00</color>
+    <color name="btn_selected_bg">#FFFFFFFF</color>
+    <color name="btn_fg">#FF555555</color>
+    <color name="btn_pressed_fg">#FF555555</color>
+    <color name="btn_selected_fg">#FF000000</color>
+
+    <color name="dialog_bg_orange">#FD5224</color>
+
+    <!--抽奖-->
+    <color name="luck_draw">#FFEC82</color>
+    <color name="luck_draw_button">#FFF955</color>
+    <color name="luck_draw_background">#C82626</color>
+    <color name="fund_sale_icon">#cfcfcf</color>
+
+    <!--基金-->
+    <color name="tab_select_text_color">#e8541d</color>
+    <color name="tab_unselect_text_color">#9b9b9b</color>
+
+    <color name="mask_tip">#6A1D1D1D</color>
+
+
+    <color name="round_corner_progress_bar_background_default">#dcdcdc</color>
+    <color name="round_corner_progress_bar_progress_default">#fc9e36</color>
+
+    <color name="radar_outline">#CBECE6</color>
+    <color name="radar_word">#999999</color>
+    <color name="radar_red">#FF0000</color>
+    <color name="radar_color">#4DD0AE</color>
+    <color name="radar_mid_outline">#1BD4AF</color>
+    <color name="radar_mid_text">#FFFFFF</color>
+
+
+    <color name="behave_line">#ECECEC</color>
+    <color name="behave_text">#0A0A0A</color>
+    <color name="behave_head">#999999</color>
+    <color name="behave_index">#7294CB</color>
+
+    <color name="video_dark_text">#353535</color>
+    <color name="video_gray_text">#9D9D9D</color>
+
+    <color name="red2">#e23e0e</color>
+    <color name="black2">#1a1a1a</color>
+</resources>
