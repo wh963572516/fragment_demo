@@ -1,4 +1,4 @@
-package fragmentdemo.com.fragmentdemo;
+package fragmentdemo.com.fragmentdemo.radiobutton_fragment;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -11,6 +11,8 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import fragmentdemo.com.fragmentdemo.R;
 
 /**
  * Created by Administrator on 2016/2/18.

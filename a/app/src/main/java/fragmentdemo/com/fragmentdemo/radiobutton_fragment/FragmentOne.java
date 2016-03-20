@@ -1,4 +1,4 @@
-package fragmentdemo.com.fragmentdemo;
+package fragmentdemo.com.fragmentdemo.radiobutton_fragment;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -8,6 +8,8 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import fragmentdemo.com.fragmentdemo.R;
 
 /**
  * Created by Administrator on 2016/2/17.
